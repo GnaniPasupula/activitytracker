@@ -1,0 +1,64 @@
+.current-Activitys{
+    max-height: 360;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding-right: 30px;
+}
+
+
+.current-Activitys p{
+    text-align: left;
+    color:#707070;
+    margin:10px 0px;
+}
+.current-Activitys p span,
+.current-Activitys.description-text{
+color:#959595;
+
+}
+.current-Activitys p span{
+display:inline-block;
+margin:0px;
+
+}
+.current-Activitys .indv-Activity{
+position: relative;
+}
+.current-Activitys .close-Activity{
+    position:absolute;
+    top:0;
+    right:0;
+    color:#959595;
+    cursor: pointer;
+    margin-top: 0px;
+
+}
+
+
+.current-Activitys hr{
+border: none;
+background: #989898;
+height: 1px;
+margin-top: 20px;
+margin-bottom:10px;
+}
+
+.grey-card-contianer
+{
+max-width: 725px;
+margin: auto;
+background: #f6f6f6;
+-webkit-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+-moz-box-shadow: 0px 3px 6px 0px
+rgba(0, 0, 0, 0.16);
+box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+border-radius: 5px;
+padding: 40px 50px 30px;
+max-height: 360px;
+overflow: hidden;
+overflow-y: scroll;
+    
+}
+
+
+
